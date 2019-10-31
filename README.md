@@ -1,4 +1,4 @@
-# FreeRTOS Examples
+# FreeRTOS Showcase
 A collection of problems solved using [FreeRTOS](https://www.freertos.org/). Developed on the [EVK1100 board](https://www.microchip.com/webdoc/evk1100/pr01.html), designed to showcase the basics of Embedded C and FreeRTOS. Developed using [Atmel Studio 7.0.0](https://www.microchip.com/mplab/avr-support/atmel-studio-7). The board is programmed using the [AVR Dragon JTAG programmer](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATAVRDRAGON).
 
 ## 1. Blink
