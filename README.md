@@ -3,7 +3,7 @@ A collection of problems solved using [FreeRTOS](https://www.freertos.org/). Dev
 
 ## 1. Blink
 
-A program that blinks the LEDs on the EVK1100 board at different intervalls, LED1 = 1 s, LED2 = 2 s etc. Pressing a button (1-3) should make the corresponding LED (1-3) stay lit for 10 seconds while the others keep blinking. The tasks send outputs through USART. The program is designed to introduce deadline misses.
+A program that blinks the LEDs on the EVK1100 board at different intervals, LED1 = 1s, LED2 = 2s etc. Pressing a button (1-3) should make the corresponding LED (1-3) stay lit for 10 seconds while the others keep blinking. The tasks send outputs through USART. The program is designed to introduce deadline misses.
 
 ## 2. Context switching
 
